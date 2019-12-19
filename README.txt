@@ -1,0 +1,1 @@
+this is for truco card game
